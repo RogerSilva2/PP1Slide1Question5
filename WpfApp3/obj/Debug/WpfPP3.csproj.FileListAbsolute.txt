@@ -1,0 +1,14 @@
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\WpfPP3.csprojResolveAssemblyReference.cache
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\WpfPP3.csproj.GenerateResource.Cache
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+c:\users\rgrv8\onedrive\documentos\visual studio 2017\Projects\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
